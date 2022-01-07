@@ -16,7 +16,7 @@ An exe compiled using cxfreeze is available.
 Example: `python .\python-barcode-generator.py --content 8675309 --output testbarcode --height 3 --textvisible true`
 
 Result:
-!["example"](./Examples/testbarcode.png)
+!["example"](./examples/testbarcode.png)
 
 ## How to build standalone exe
 
